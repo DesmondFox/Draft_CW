@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Blackberry Key One",
+    "descr": "Description 2"
+  },
+  {
+    "id": "2",
+    "name": "Nokia N97",
+    "descr": "Description 2"
+  },
+  {
+    "id": "3",
+    "name": "Samsung Galaxy S10",
+    "descr": "Description 2"
+  },
+  {
+    "id": "4",
+    "name": "Apple iPhone XS",
+    "descr": "Description 2"
+  },
+  {
+    "id": "5",
+    "name": "Xiaomi Redmi 4X",
+    "descr": "Description 2"
+  },
+  {
+    "id": "6",
+    "name": "Xiaomi Mi A2",
+    "descr": "Description 2"
+  },
+  {
+    "id": "7",
+    "name": "Sony Xperia XA2",
+    "descr": "Description 2"
+  },
+  {
+    "id": "8",
+    "name": "Xiaomi Redmi Note 5",
+    "descr": "Description 2"
+  },
+  {
+    "id": "9",
+    "name": "Huawei Honor Play",
+    "descr": "Description 2"
+  },
+  {
+    "id": "10",
+    "name": "Apple iPhone SE",
+    "descr": "Description 2"
+  },
+  {
+    "id": "11",
+    "name": "Sigma Mobile PQ-25",
+    "descr": "Description 2"
+  },
+  {
+    "id": "12",
+    "name": "Fly IQ 4403",
+    "descr": "Description 2"
+  },
+  {
+    "id": "13",
+    "name": "Sigma mobile it67",
+    "descr": "Description 2"
+  },
+  {
+    "id": "14",
+    "name": "Philips e570",
+    "descr": "Description 2"
+  },
+  {
+    "id": "15",
+    "name": "Vian V11",
+    "descr": "Description 2"
+  },
+  {
+    "id": "16",
+    "name": "Nokia 3410",
+    "descr": "Description 2"
+  }
+]
