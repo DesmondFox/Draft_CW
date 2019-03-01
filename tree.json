@@ -1,128 +1,128 @@
 [
   {
-  "id": "0",
+  "id": 0,
   "name": "Нужен смартфон?",
   "descr": "Description 2",
-  "yes_id": "1",
-  "no_id": "12",
+  "yes_id": 1,
+  "no_id": 12,
   "phone_yes": null,
   "phone_no": null
   },
   {
-    "id": "1",
+    "id": 1,
     "name": "Нужна физическая клавиатура?",
     "descr": "Description 2",
-    "yes_id": "2",
-    "no_id": "3",
+    "yes_id": 2,
+    "no_id": 3,
     "phone_yes": null,
     "phone_no": null
   },
     {
-      "id": "2",
+      "id": 2,
       "name": "Андроид?",
       "descr": "Description 3",
       "yes_id": null,
       "no_id": null,
-      "phone_yes": "0",
-      "phone_no": "1"
+      "phone_yes": 0,
+      "phone_no": 1
     },
     {
-    "id": "3",
+    "id": 3,
     "name": "Большой экран",
     "descr": "Description",
-    "yes_id": "4",
-    "no_id": "10",
+    "yes_id": 4,
+    "no_id": 10,
     "phone_yes": null,
     "phone_no": null
     },
     {
-    "id": "5",
+    "id": 5,
     "name": "Андроид?",
     "descr": "Description",
     "yes_id": null,
     "no_id": null,
-    "phone_yes": "3",
-    "phone_no": "4"
+    "phone_yes": 3,
+    "phone_no": 4
     },
     {
-    "id": "6",
+    "id": 6,
     "name": "Бюджетный?",
     "descr": "Description",
-    "yes_id": "7",
-    "no_id": "8",
+    "yes_id": 7,
+    "no_id": 8,
     "phone_yes": null,
     "phone_no": null
     },
     {
-    "id": "7",
+    "id": 7,
     "name": "Процессор Qualcomm?",
     "descr": "Description",
     "yes_id": null,
     "no_id": null,
-    "phone_yes": "5",
-    "phone_no": "6"
+    "phone_yes": 5,
+    "phone_no": 6
     },
     {
-    "id": "8",
+    "id": 8,
     "name": "Важна камера?",
     "descr": "Description",
-    "yes_id": "9",
+    "yes_id": 9,
     "no_id": null,
     "phone_yes": null,
-    "phone_no": "9"
+    "phone_no": 9
     },
     {
-    "id": "9",
+    "id": 9,
     "name": "NFC?",
     "descr": "Description",
     "yes_id": null,
     "no_id": null,
-    "phone_yes": "7",
-    "phone_no": "8"
+    "phone_yes": 7,
+    "phone_no": 8
     },
     {
-    "id": "10",
+    "id": 10,
     "name": "Хорошая камера?",
     "descr": "Description",
     "yes_id": null,
-    "no_id": "11",
-    "phone_yes": "10",
+    "no_id": 11,
+    "phone_yes": 10,
     "phone_no": null
     },
     {
-    "id": "11",
+    "id": 11,
     "name": "Важен класс защиты?",
     "descr": "Description",
     "yes_id": null,
     "no_id": null,
-    "phone_yes": "11",
-    "phone_no": "12"
+    "phone_yes": 11,
+    "phone_no": 12
     },
     {
     "id": "12",
     "name": "Важна ли ударопрочность?",
     "descr": "Description",
-    "yes_id": "13",
-    "no_id": "14",
+    "yes_id": 13,
+    "no_id": 14,
     "phone_yes": null,
     "phone_no": null
     },
     {
-    "id": "13",
+    "id": 13,
     "name": "Водонепроницаемость?",
     "descr": "Description",
     "yes_id": null,
     "no_id": null,
-    "phone_yes": "13",
-    "phone_no": "14"
+    "phone_yes": 13,
+    "phone_no": 14
     },
     {
-    "id": "14",
+    "id": 14,
     "name": "Критично время автономной работы?",
     "descr": "Description",
     "yes_id": null,
     "no_id": null,
-    "phone_yes": "15",
-    "phone_no": "16"
+    "phone_yes": 15,
+    "phone_no": 16
     }
 ]
