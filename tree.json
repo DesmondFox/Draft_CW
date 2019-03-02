@@ -36,6 +36,15 @@
     "phone_no": null
   },
   {
+    "id": 5,
+    "name": "Премиум сегмент?",
+    "descr": "Description",
+    "yes_id": 6,
+    "no_id": 7,
+    "phone_yes": null,
+    "phone_no": null
+  },
+  {
     "id": 6,
     "name": "Андроид?",
     "descr": "Description",
